@@ -1,12 +1,29 @@
-- 👋 Hello there, I’m Mohammad Omar
-- 👀 I serve hefty amount of intrest in Blockchain technologies & Engineering...
-- 🌱 I am also equipped with the skills in microcontrollers...
-- 💞️ I’m looking to collaborate on blockchain integrated and core blockchain projects even Dapp projects...
-- 📫 I like to work on web scrapping and automation projects to appear cool ...
-- 😄 Pronouns: He/HIm ...
-- ⚡ Fun fact: I look older than I age ...
+# Hi there! 👋 I'm [Your Name]
 
-<!---
-MohammadOmar1054/MohammadOmar1054 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+🎓  B.Tech Computer Science student at REVA University, Bangalore, India  
+⛓️ Passionate about Blockchain Engineering & Web3 technologies  
+🛡️ Exploring Cybersecurity and secure software development  
+🚁 Interested in Drone Technology & IoT integrations for innovative startups  
+💻 Skilled in Python, C, Solidity, and C++ programming languages  
+🎮 Tech enthusiast who loves hackathons, networking events, and gaming references  
+
+## What I Love  
+- Building blockchain-based DApps and smart contracts  
+- Working on startup ideas combining drone tech and blockchain for secure content  
+- Attending tech meetups and community events to learn and share knowledge  
+- Playing football ⚽ and jamming on the guitar 🎸 in free time.  
+
+## Skills & Tools  
+- Programming: Python 🐍, C, Solidity, C++  
+- Blockchain: Smart Contracts, Ethereum, Remix IDE  
+- Cybersecurity basics & network security fundamentals  
+- IoT & Hardware interfacing (Arduino, thermal sensors)  
+- Development Environments: Linux, Windows, Command line, GitHub  
+
+## Let's Connect  
+🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+🐦 [Twitter](https://twitter.com/yourhandle)  
+🌐 Open to collaborations, hackathons, and startup ideas!  
+
+
