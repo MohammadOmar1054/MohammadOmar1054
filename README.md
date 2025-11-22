@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Mohammad Omar.
 
 ## About Me
 🎓  B.Tech Computer Science student at REVA University, Bangalore, India  
@@ -22,8 +22,7 @@
 - Development Environments: Linux, Windows, Command line, GitHub  
 
 ## Let's Connect  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-omar-a81b28388?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 🌐 Open to collaborations, hackathons, and startup ideas!  
 
 
