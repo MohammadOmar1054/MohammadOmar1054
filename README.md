@@ -12,7 +12,8 @@
 - Building blockchain-based DApps and smart contracts  
 - Working on startup ideas combining drone tech and blockchain for secure content  
 - Attending tech meetups and community events to learn and share knowledge  
-- Playing football ⚽ and jamming on the guitar 🎸 in free time.  
+- Playing football ⚽ and jamming on the guitar 🎸 in free time.
+- Play chess ♟️
 
 ## Skills & Tools  
 - Programming: Python 🐍, C, Solidity, C++  
