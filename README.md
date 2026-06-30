@@ -6,7 +6,25 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MohammadOmar1054&theme=tokyonight)
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Mohammad+Omar;IoT+Engineer;Cybersecurity+Enthusiast;Blockchain+Developer;Software+Engineer;Building+Real+World+Projects" />
+</h1>
 
+<h3 align="center">
+🚀 IoT • 🔐 Cybersecurity • ⛓ Blockchain • 💻 Software Engineering
+</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:06B6D4&text=MOHAMMAD%20OMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=MohammadOmar1054&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadOmar1054&layout=compact&theme=tokyonight"/>
+
+</p>
 
 <div align="center">
 
@@ -144,7 +162,9 @@ Mission:
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadOmar1054&theme=tokyonight"/>
 </div>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/MohammadOmar1054/MohammadOmar1054/output/github-contribution-grid-snake.svg"/>
+</p>
 ⸻
 
 🌐 Connect With Me
@@ -162,3 +182,8 @@ Mission:
 ⚡ “Building the future one project at a time.”
 
 </div>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,100:0F172A"/>
+
+</p>
