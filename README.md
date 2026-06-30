@@ -6,214 +6,158 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MohammadOmar1054&theme=tokyonight)
 
+
+
 <div align="center">
 
-👋 Hey, I’m Mohammad Omar
+👨‍💻 Mohammad Omar
 
-Software Engineer • Blockchain Engineer • Cybersecurity Enthusiast • IoT Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Things+That+Shouldn't+Exist...;Blockchain+%7C+Cybersecurity+%7C+IoT+%7C+Software+Engineering;Hackathons+%7C+Automation+%7C+Hardware+Hacking;Always+Learning+Something+Dangerous" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=IoT+Developer;Software+Engineer;Cybersecurity+Enthusiast;Blockchain+Engineer;Building+Innovative+Solutions" />
+<img src="https://komarev.com/ghpvc/?username=MohammadOmar1054&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </div>
 
 ⸻
 
 🚀 About Me
 
-🎓 B.Tech Computer Science Student @ REVA University, Bangalore
-
-🛡️ Technical Member — Cybersecurity Club, REVA University
-
-⚙️ Passionate about Software Engineering, Cybersecurity, Blockchain Engineering and IoT Systems
-
-🔥 Love building innovative products, hackathon projects and startup-oriented solutions
-
-🤖 Obsessed with automation and solving repetitive problems
-
-🔍 Curious about low-level systems, firmware, hardware interfaces and embedded development
-
-🌐 Exploring the intersection of Cloud Computing, Blockchain and IoT
-
-⸻
-
-🧠 Current Focus
-
-Blockchain Engineering
-        │
-        ├── Smart Contracts
-        ├── Solidity
-        ├── Security Auditing
-        └── Web3 Infrastructure
-Cybersecurity
-        │
-        ├── Network Security
-        ├── OSINT
-        ├── Secure Development
-        └── Threat Analysis
-Software Engineering
-        │
-        ├── Full Stack Development
-        ├── System Design
-        ├── Automation
-        └── Cloud Services
-IoT & Embedded
-        │
-        ├── ESP32
-        ├── Arduino
-        ├── Sensors
-        └── Firmware Development
+Name: Mohammad Omar
+Role: Software Engineering Student
+University: REVA University
+Position: Technical Member - Cybersecurity Club
+Focus:
+  - Internet of Things (IoT)
+  - Software Engineering
+  - Cybersecurity
+  - Blockchain Engineering
+  - Automation Systems
+Current Mission:
+  Building real-world solutions that combine
+  hardware + firmware + cloud technologies.
 
 ⸻
 
-⚡ Tech Arsenal
-
-Programming Languages
+⚡ Tech Power Levels
 
 Python
-
 ████████████████░░░░ 80%
 
 HTML
-
 ██████████████████░░ 91%
 
 CSS
-
 █████████████████░░░ 88%
 
 JavaScript
-
 ██████████████░░░░░░ 71%
 
 C
-
 ███████████░░░░░░░░░ 55%
 
 C++
-
 ███████░░░░░░░░░░░░░ 34%
 
 Solidity
-
 ████░░░░░░░░░░░░░░░░ 22%
 
 ⸻
 
-🛠 Technologies
+🛡 Cybersecurity
 
-Software Engineering
+<img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
-* Python
-* JavaScript
-* HTML5
-* CSS3
-* Git
-* GitHub
+Activities
 
-Blockchain
+* Technical Member — Cybersecurity Club, REVA University
+* Network Security Fundamentals
+* Secure Coding Practices
+* Ethical Hacking Concepts
+* Linux Environment
 
-* Solidity
+⸻
+
+⛓ Blockchain Engineering
+
+<img src="https://img.shields.io/badge/Blockchain-121212?style=for-the-badge&logo=ethereum"/>
+
+Experience
+
 * Smart Contracts
+* Solidity
 * Ethereum
 * Remix IDE
-* Web3 Fundamentals
-
-Cybersecurity
-
-* Network Security
-* Secure Coding Practices
-* Linux Security
-* Threat Analysis
-
-IoT & Embedded
-
-* ESP32
-* Arduino
-* Sensors
-* Firebase
-* Embedded Firmware
+* Web3 Concepts
 
 ⸻
 
-🏆 Featured Projects
+🤖 IoT & Embedded Systems
 
-🚀 Attendify
+<img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge&logo=espressif"/>
 
-Biometric Attendance Management System
+Projects
 
-* ESP32
-* R307 Fingerprint Sensor
-* Firebase
-* Realtime Attendance Tracking
-* Cloud Dashboard
-
-🔗 Blockchain Experiments
-
-Smart contracts, Web3 development and decentralized application concepts.
-
-🛡 Cybersecurity Projects
-
-Security-focused tools, networking experiments and secure development practices.
+* Attendify — Biometric Attendance System
+* ESP32 + Firebase Integrations
+* Fingerprint Authentication Systems
+* Sensor Interfacing
+* Cloud Synchronization
 
 ⸻
 
-⚔️ Beyond Coding
+🏆 Interests
 
-Soulsborne Enjoyer
-
-🎮 Elden Ring
-
-🎮 Dark Souls III
-
-🎮 Future Goal: Platinum Every Soulsborne Game
-
-⸻
-
-Other Interests
-
-🏆 Hackathons
-
-🤖 Automation
-
-🚁 Emerging Technologies
-
-🔬 Researching New Tech
-
-📖 Learning by Building
-
-♟️ Chess
-
-⚽ Football
-
-🎸 Guitar
++ Hackathons
++ Innovative Projects
++ Automation
++ Hardware Design
++ Firmware Development
++ Cybersecurity
++ Blockchain Technologies
 
 ⸻
 
-📊 Developer Mindset
+🎮 Gaming
 
-Build > Talk
-Ship > Perfect
-Automate > Repeat
-Learn > Assume
-Create > Consume
+Favorite Genre:
+  - Soulslike
+Completed:
+  - Elden Ring
+  - Dark Souls III
+Mission:
+  Platinum Every Souls Game
+
+⚔️ Praise the Sun
 
 ⸻
 
-🌎 Connect With Me
+📊 GitHub Analytics
 
-💼 LinkedIn
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadOmar1054&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadOmar1054&layout=compact&theme=tokyonight"/>
+</div>
 
-📧 Open to collaborations
+⸻
 
-🚀 Open to hackathons
+🔥 Contribution Streak
 
-🤝 Open to innovative startup projects
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadOmar1054&theme=tokyonight"/>
+</div>
 
-🧠 Always interested in ambitious technical ideas
+⸻
+
+🌐 Connect With Me
+
+<p align="center">
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
 ⸻
 
 <div align="center">
 
-⚡ “If it can be automated, it shouldn’t be manual.”
+⚡ “Building the future one project at a time.”
 
 </div>
