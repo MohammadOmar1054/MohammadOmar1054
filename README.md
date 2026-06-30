@@ -122,6 +122,7 @@ Favorite Genre:
 Completed:
   - Elden Ring
   - Dark Souls III
+  - BloodBorne
 Mission:
   Platinum Every Souls Game
 
