@@ -12,7 +12,7 @@
 
 👨‍💻 Mohammad Omar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=IoT+Developer;Software+Engineer;Cybersecurity+Enthusiast;Blockchain+Engineer;Building+Innovative+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hardware+Fascinates+Me;Software+Engineering+Student;Cybersecurity+Enthusiast;Cloud+Admirer;Building+Innovative+Solutions;" />
 <img src="https://komarev.com/ghpvc/?username=MohammadOmar1054&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </div>
 
