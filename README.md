@@ -5,8 +5,9 @@
 -->
 
 <!-- ===== HEADER BANNER ===== -->
+<!-- ===== TYPING SVG ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:06B6D4,100:0F172A&text=Mohammad%20Omar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20•%20IoT%20•%20Cybersecurity&descAlignY=55&descSize=18" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=🚀+Building+the+future%2C+one+project+at+a+time.;🔐+Security-first+development+advocate.;🌐+IoT+%7C+Blockchain+%7C+Automation;💡+Always+learning%2C+always+building." alt="Typing SVG" />
 </p>
 
 <!-- ===== PROFILE BADGES ===== -->
