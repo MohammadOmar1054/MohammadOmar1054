@@ -36,34 +36,180 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadOmar
 
 ⸻
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=⚡+Welcome+to+my+Digital+Realm+⚡;Mohammad+Omar;IoT+%7C+Cybersecurity+%7C+Blockchain;Building+the+Future+Today" alt="Typing SVG" />
+</p>
+
 <div align="center">
-  <table>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background: transparent;">
     <tr>
-      <td>
-        <pre style="background-color: #0d1117; color: #e6edf3; padding: 20px; border-radius: 10px; font-family: 'Fira Code', monospace; font-size: 14px; border: 1px solid #30363d;">
-{
-  <span style="color: #ff7b72;">"about"</span>: {
-    <span style="color: #ff7b72;">"name"</span>: <span style="color: #a5d6ff;">"Mohammad Omar"</span>,
-    <span style="color: #ff7b72;">"role"</span>: <span style="color: #a5d6ff;">"Software Engineering Student"</span>,
-    <span style="color: #ff7b72;">"university"</span>: <span style="color: #a5d6ff;">"REVA University"</span>,
-    <span style="color: #ff7b72;">"position"</span>: <span style="color: #a5d6ff;">"Technical Member - Cybersecurity Club"</span>,
-    <span style="color: #ff7b72;">"focus_areas"</span>: [
-      <span style="color: #a5d6ff;">"Internet of Things (IoT)"</span>,
-      <span style="color: #a5d6ff;">"Software Engineering"</span>,
-      <span style="color: #a5d6ff;">"Cybersecurity"</span>,
-      <span style="color: #a5d6ff;">"Blockchain Engineering"</span>,
-      <span style="color: #a5d6ff;">"Automation Systems"</span>
-    ],
-    <span style="color: #ff7b72;">"current_mission"</span>: <span style="color: #a5d6ff;">"Building real-world solutions that combine hardware + firmware + cloud technologies."</span>,
-    <span style="color: #ff7b72;">"status"</span>: <span style="color: #a5d6ff;">"🚀 Always learning, building, and securing the future"</span>
-  }
-}
-        </pre>
+      <td style="padding: 0; border: none;">
+        <div style="
+          background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%);
+          padding: 30px 40px;
+          border-radius: 20px;
+          border: 2px solid transparent;
+          background-clip: padding-box;
+          position: relative;
+          box-shadow: 
+            0 0 30px rgba(0, 255, 157, 0.1),
+            inset 0 0 60px rgba(0, 255, 157, 0.05);
+          max-width: 750px;
+          margin: 0 auto;
+          font-family: 'Fira Code', 'Consolas', monospace;
+        ">
+          <!-- Glowing border effect -->
+          <div style="
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            border-radius: 22px;
+            background: linear-gradient(45deg, #00ff9d, #00d4ff, #ff6b6b, #ffd93d, #00ff9d);
+            background-size: 300% 300%;
+            animation: gradientBorder 4s ease infinite;
+            z-index: -1;
+          "></div>
+
+          <!-- JSON Header -->
+          <div style="color: #6c7a89; font-size: 13px; margin-bottom: 10px; letter-spacing: 2px; user-select: none;">
+            ════════════════════════════════════════════
+          </div>
+
+          <div style="color: #ff6b6b; font-size: 14px; font-weight: 600; margin-bottom: 15px;">
+            📁 profile.json
+          </div>
+
+          <!-- JSON Content -->
+          <div style="text-align: left; line-height: 1.8; font-size: 15px;">
+            <span style="color: #ffd93d;">{</span><br>
+            
+            <span style="padding-left: 20px;">
+              <span style="color: #ff6b6b;">"about"</span><span style="color: #ffffff;">:</span>
+              <span style="color: #ffd93d;">{</span>
+            </span><br>
+
+            <span style="padding-left: 40px;">
+              <span style="color: #ff6b6b;">"name"</span><span style="color: #ffffff;">:</span>
+              <span style="color: #00ff9d;">"Mohammad Omar"</span><span style="color: #ffffff;">,</span>
+              <span style="color: #6c7a89; font-size: 12px; padding-left: 10px;">👤</span>
+            </span><br>
+
+            <span style="padding-left: 40px;">
+              <span style="color: #ff6b6b;">"role"</span><span style="color: #ffffff;">:</span>
+              <span style="color: #00ff9d;">"🚀 Software Engineering Student"</span><span style="color: #ffffff;">,</span>
+            </span><br>
+
+            <span style="padding-left: 40px;">
+              <span style="color: #ff6b6b;">"university"</span><span style="color: #ffffff;">:</span>
+              <span style="color: #00ff9d;">"🎓 REVA University"</span><span style="color: #ffffff;">,</span>
+            </span><br>
+
+            <span style="padding-left: 40px;">
+              <span style="color: #ff6b6b;">"position"</span><span style="color: #ffffff;">:</span>
+              <span style="color: #00ff9d;">"🔐 Technical Member - Cybersecurity Club"</span><span style="color: #ffffff;">,</span>
+            </span><br>
+
+            <span style="padding-left: 40px;">
+              <span style="color: #ff6b6b;">"focus_areas"</span><span style="color: #ffffff;">:</span>
+              <span style="color: #ffd93d;">[</span>
+            </span><br>
+
+            <span style="padding-left: 60px;">
+              <span style="color: #4fc3f7;">"🌐 Internet of Things (IoT)"</span><span style="color: #ffffff;">,</span>
+            </span><br>
+            <span style="padding-left: 60px;">
+              <span style="color: #4fc3f7;">"💻 Software Engineering"</span><span style="color: #ffffff;">,</span>
+            </span><br>
+            <span style="padding-left: 60px;">
+              <span style="color: #4fc3f7;">"🛡️ Cybersecurity"</span><span style="color: #ffffff;">,</span>
+            </span><br>
+            <span style="padding-left: 60px;">
+              <span style="color: #4fc3f7;">"⛓️ Blockchain Engineering"</span><span style="color: #ffffff;">,</span>
+            </span><br>
+            <span style="padding-left: 60px;">
+              <span style="color: #4fc3f7;">"🤖 Automation Systems"</span>
+            </span><br>
+
+            <span style="padding-left: 40px;">
+              <span style="color: #ffd93d;">]</span><span style="color: #ffffff;">,</span>
+            </span><br>
+
+            <span style="padding-left: 40px;">
+              <span style="color: #ff6b6b;">"current_mission"</span><span style="color: #ffffff;">:</span>
+              <span style="color: #ffd93d;">"⚡ Building real-world solutions that combine hardware + firmware + cloud technologies."</span><span style="color: #ffffff;">,</span>
+            </span><br>
+
+            <span style="padding-left: 40px;">
+              <span style="color: #ff6b6b;">"status"</span><span style="color: #ffffff;">:</span>
+              <span style="color: #ffd93d;">"🌟 Always learning, building, and securing the future"</span>
+            </span><br>
+
+            <span style="padding-left: 20px;">
+              <span style="color: #ffd93d;">}</span>
+            </span><br>
+
+            <span style="color: #ffd93d;">}</span>
+          </div>
+
+          <!-- Footer with stats -->
+          <div style="
+            margin-top: 20px;
+            padding-top: 15px;
+            border-top: 1px solid rgba(255,255,255,0.05);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: #6c7a89;
+            font-size: 12px;
+          ">
+            <span>
+              <span style="color: #ff6b6b;">⏳</span> last_updated: <span style="color: #4fc3f7;">2026-07-01</span>
+            </span>
+            <span>
+              <span style="color: #00ff9d;">●</span> <span style="color: #6c7a89;">active</span>
+              <span style="color: #ffd93d; margin-left: 15px;">⚡</span> <span style="color: #6c7a89;">v2.0.0</span>
+            </span>
+          </div>
+
+          <div style="color: #6c7a89; font-size: 13px; margin-top: 12px; text-align: center; letter-spacing: 1px; user-select: none;">
+            ════════════════════════════════════════════
+          </div>
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
+<!-- Add the animation keyframes -->
+<style>
+@keyframes gradientBorder {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+
+<!-- Optional: Animated divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadomar&label=Profile%20Views&color=00ff9d&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/🚀-IoT%20Enthusiast-00ff9d?style=flat-square" alt="IoT" />
+  <img src="https://img.shields.io/badge/🛡️-Cybersecurity%20Advocate-ff6b6b?style=flat-square" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/⛓️-Blockchain%20Developer-ffd93d?style=flat-square" alt="Blockchain" />
+</p>
 ⸻
 
 ⚡ Tech Power Levels
