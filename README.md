@@ -36,21 +36,28 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadOmar
 
 ⸻
 
-🚀 About Me
-
-Name: Mohammad Omar
-Role: Software Engineering Student
-University: REVA University
-Position: Technical Member - Cybersecurity Club
-Focus:
-  - Internet of Things (IoT)
-  - Software Engineering
-  - Cybersecurity
-  - Blockchain Engineering
-  - Automation Systems
-Current Mission:
-  Building real-world solutions that combine
-  hardware + firmware + cloud technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mohammad+Omar;IoT+%7C+Cybersecurity+%7C+Blockchain;Building+the+future+with+code" alt="Typing SVG" />
+</p>
+```json
+{
+  "about": {
+    "name": "Mohammad Omar",
+    "role": "Software Engineering Student",
+    "university": "REVA University",
+    "position": "Technical Member - Cybersecurity Club",
+    "focus_areas": [
+      "Internet of Things (IoT)",
+      "Software Engineering",
+      "Cybersecurity",
+      "Blockchain Engineering",
+      "Automation Systems"
+    ],
+    "current_mission": "Building real-world solutions that combine hardware + firmware + cloud technologies.",
+    "status": "🚀 Always learning, building, and securing the future"
+  }
+}
+```
 
 ⸻
 
