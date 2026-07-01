@@ -36,28 +36,33 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadOmar
 
 ⸻
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mohammad+Omar;IoT+%7C+Cybersecurity+%7C+Blockchain;Building+the+future+with+code" alt="Typing SVG" />
-</p>
-```json
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <pre style="background-color: #0d1117; color: #e6edf3; padding: 20px; border-radius: 10px; font-family: 'Fira Code', monospace; font-size: 14px; border: 1px solid #30363d;">
 {
-  "about": {
-    "name": "Mohammad Omar",
-    "role": "Software Engineering Student",
-    "university": "REVA University",
-    "position": "Technical Member - Cybersecurity Club",
-    "focus_areas": [
-      "Internet of Things (IoT)",
-      "Software Engineering",
-      "Cybersecurity",
-      "Blockchain Engineering",
-      "Automation Systems"
+  <span style="color: #ff7b72;">"about"</span>: {
+    <span style="color: #ff7b72;">"name"</span>: <span style="color: #a5d6ff;">"Mohammad Omar"</span>,
+    <span style="color: #ff7b72;">"role"</span>: <span style="color: #a5d6ff;">"Software Engineering Student"</span>,
+    <span style="color: #ff7b72;">"university"</span>: <span style="color: #a5d6ff;">"REVA University"</span>,
+    <span style="color: #ff7b72;">"position"</span>: <span style="color: #a5d6ff;">"Technical Member - Cybersecurity Club"</span>,
+    <span style="color: #ff7b72;">"focus_areas"</span>: [
+      <span style="color: #a5d6ff;">"Internet of Things (IoT)"</span>,
+      <span style="color: #a5d6ff;">"Software Engineering"</span>,
+      <span style="color: #a5d6ff;">"Cybersecurity"</span>,
+      <span style="color: #a5d6ff;">"Blockchain Engineering"</span>,
+      <span style="color: #a5d6ff;">"Automation Systems"</span>
     ],
-    "current_mission": "Building real-world solutions that combine hardware + firmware + cloud technologies.",
-    "status": "🚀 Always learning, building, and securing the future"
+    <span style="color: #ff7b72;">"current_mission"</span>: <span style="color: #a5d6ff;">"Building real-world solutions that combine hardware + firmware + cloud technologies."</span>,
+    <span style="color: #ff7b72;">"status"</span>: <span style="color: #a5d6ff;">"🚀 Always learning, building, and securing the future"</span>
   }
 }
-```
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ⸻
 
