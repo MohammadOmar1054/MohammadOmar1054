@@ -46,7 +46,7 @@
     "Internet of Things (IoT)",
     "Software Engineering",
     "Cybersecurity",
-    "Blockchain Engineering",
+    "Cloud/DevOps Engineering",
     "Automation Systems"
   ],
   "current_mission": "Building real-world solutions that combine hardware + firmware + cloud technologies.",
