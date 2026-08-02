@@ -154,7 +154,7 @@
           <li>🐧 Linux Environment</li>
         </ul>
       </td>
-      <td width="33%" style="border: 2px solid #FCD34D; border-radius: 10px; padding: 20px;">
+      <!-- <td width="33%" style="border: 2px solid #FCD34D; border-radius: 10px; padding: 20px;">
         <h3>⛓️ Blockchain</h3>
         <ul align="left">
           <li>📝 Smart Contracts</li>
@@ -163,7 +163,7 @@
           <li>💻 Remix IDE</li>
           <li>🌐 Web3 Concepts</li>
         </ul>
-      </td>
+      </td> -->
       <td width="33%" style="border: 2px solid #00FF9D; border-radius: 10px; padding: 20px;">
         <h3>🤖 IoT & Embedded</h3>
         <ul align="left">
