@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none" font-family="'Cinzel','Fira Code',Georgia,serif">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#080A10"/>
+      <stop offset="0.55" stop-color="#0C0F18"/>
+      <stop offset="1" stop-color="#140E0A"/>
+    </linearGradient>
+    <radialGradient id="firelight" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#F59E0B" stop-opacity="0.35"/>
+      <stop offset="0.45" stop-color="#B45309" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#B45309" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="box"><rect width="1200" height="260" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#box)">
+    <rect width="1200" height="260" fill="url(#sky)"/>
+
+    <!-- drifting fog -->
+    <g fill="#334155" opacity="0.10">
+      <ellipse cx="300" cy="210" rx="360" ry="42">
+        <animateTransform attributeName="transform" type="translate" values="-60 0; 60 0; -60 0" dur="19s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="900" cy="230" rx="420" ry="46">
+        <animateTransform attributeName="transform" type="translate" values="50 0; -50 0; 50 0" dur="24s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <!-- ground -->
+    <rect y="214" width="1200" height="46" fill="#0A0C12"/>
+    <line x1="0" y1="214" x2="1200" y2="214" stroke="#1E293B" stroke-width="1"/>
+
+    <!-- firelight pool -->
+    <ellipse cx="600" cy="196" rx="260" ry="150" fill="url(#firelight)">
+      <animate attributeName="rx" values="250;272;246;260;250" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;1;0.82;0.95;0.9" dur="0.7s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- kneeling knight, resting on a greatsword -->
+    <g fill="#05060A" transform="translate(470,120)">
+      <path d="M18 96 q-8 -34 6 -52 q10 -13 26 -12 q-14 10 -16 26 q-2 20 6 40 z"/>
+      <circle cx="34" cy="26" r="10"/>
+      <path d="M24 96 h34 l-4 -12 h-26 z"/>
+      <!-- planted sword -->
+      <rect x="66" y="4" width="4" height="96" fill="#1F2937"/>
+      <rect x="56" y="18" width="24" height="4" fill="#374151"/>
+      <circle cx="68" cy="6" r="3.5" fill="#374151"/>
+    </g>
+
+    <!-- coiled-sword bonfire -->
+    <g transform="translate(600,206)">
+      <!-- ash mound -->
+      <path d="M-46 8 q46 -22 92 0 q-10 10 -46 10 q-36 0 -46 -10 z" fill="#111318"/>
+      <!-- broken blades in the pile -->
+      <g stroke="#2A2F3A" stroke-width="3" stroke-linecap="round">
+        <line x1="-20" y1="6" x2="-30" y2="-40"/>
+        <line x1="6" y1="8" x2="10" y2="-52"/>
+        <line x1="24" y1="4" x2="34" y2="-34"/>
+      </g>
+      <!-- central sword -->
+      <rect x="-2" y="-96" width="4" height="104" fill="#39404D"/>
+      <rect x="-16" y="-72" width="32" height="4" fill="#4B5563"/>
+
+      <!-- flame -->
+      <g filter="url(#soft)">
+        <g>
+          <path d="M0 4 C -20 -18 -14 -46 -3 -66 C -6 -44 6 -40 3 -66 C 16 -44 20 -18 0 4 Z" fill="#B45309">
+            <animate attributeName="opacity" values="0.85;1;0.7;0.9;0.85" dur="0.55s" repeatCount="indefinite"/>
+          </path>
+          <animateTransform attributeName="transform" type="scale" values="1 1; 1.06 0.9; 0.94 1.12; 1.02 0.97; 1 1" dur="0.5s" repeatCount="indefinite" additive="sum"/>
+        </g>
+        <g>
+          <path d="M0 4 C -12 -14 -9 -34 -2 -50 C -4 -33 4 -31 2 -50 C 9 -34 12 -14 0 4 Z" fill="#F59E0B">
+            <animate attributeName="opacity" values="0.9;0.75;1;0.8;0.9" dur="0.4s" repeatCount="indefinite"/>
+          </path>
+          <animateTransform attributeName="transform" type="scale" values="1 1; 0.92 1.1; 1.07 0.9; 1 1" dur="0.37s" repeatCount="indefinite" additive="sum"/>
+        </g>
+        <path d="M0 2 C -6 -8 -4 -20 -1 -30 C -2 -19 2 -19 1 -30 C 4 -20 6 -8 0 2 Z" fill="#FDE68A">
+          <animate attributeName="opacity" values="1;0.8;1;0.85;1" dur="0.3s" repeatCount="indefinite"/>
+          <animate attributeName="d" values="M0 2 C -6 -8 -4 -20 -1 -30 C -2 -19 2 -19 1 -30 C 4 -20 6 -8 0 2 Z; M0 2 C -5 -9 -5 -22 -1 -34 C -2 -20 2 -20 1 -34 C 5 -22 5 -9 0 2 Z; M0 2 C -6 -8 -4 -20 -1 -30 C -2 -19 2 -19 1 -30 C 4 -20 6 -8 0 2 Z" dur="0.6s" repeatCount="indefinite"/>
+        </path>
+      </g>
+
+      <!-- embers -->
+      <g fill="#FBBF24">
+        <circle cx="-6" cy="-40" r="1.6"><animate attributeName="cy" values="-40;-150" dur="2.4s" repeatCount="indefinite"/><animate attributeName="cx" values="-6;-22" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="2.4s" repeatCount="indefinite"/></circle>
+        <circle cx="4" cy="-30" r="1.3"><animate attributeName="cy" values="-30;-170" dur="3.1s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="cx" values="4;18" dur="3.1s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3.1s" begin="0.5s" repeatCount="indefinite"/></circle>
+        <circle cx="0" cy="-46" r="1.8"><animate attributeName="cy" values="-46;-140" dur="2.7s" begin="1s" repeatCount="indefinite"/><animate attributeName="cx" values="0;-10" dur="2.7s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.85;0" dur="2.7s" begin="1s" repeatCount="indefinite"/></circle>
+        <circle cx="8" cy="-36" r="1.2"><animate attributeName="cy" values="-36;-160" dur="3.4s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="cx" values="8;26" dur="3.4s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="3.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+        <circle cx="-10" cy="-28" r="1.4"><animate attributeName="cy" values="-28;-155" dur="2.9s" begin="2.1s" repeatCount="indefinite"/><animate attributeName="cx" values="-10;-28" dur="2.9s" begin="2.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.9s" begin="2.1s" repeatCount="indefinite"/></circle>
+      </g>
+    </g>
+
+    <!-- headline -->
+    <text x="60" y="52" font-size="22" letter-spacing="6" fill="#F59E0B">
+      BEYOND CODE
+      <animate attributeName="opacity" values="1;0.72;1;0.88;1" dur="3.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="60" y="52" font-size="22" letter-spacing="6" fill="#FDE68A" opacity="0">
+      BEYOND CODE
+      <animate attributeName="opacity" values="0;0;0.5;0;0" dur="4s" begin="1.3s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- right-side inscription -->
+    <g font-family="'Fira Code',ui-monospace,monospace" text-anchor="end">
+      <text x="1140" y="112" font-size="15" letter-spacing="2" fill="#E5E7EB">THE BONFIRE IS LIT</text>
+      <text x="1140" y="140" font-size="12.5" fill="#9CA3AF">cleared &#8212; Elden Ring &#183; Dark Souls III &#183; Bloodborne</text>
+      <text x="1140" y="164" font-size="12.5" fill="#9CA3AF">
+        objective &#8212; platinum trophy, every one
+        <animate attributeName="fill" values="#9CA3AF;#F59E0B;#9CA3AF" dur="3.5s" repeatCount="indefinite"/>
+      </text>
+      <text x="1140" y="190" font-size="12.5" fill="#6B7280">
+        attempts:
+        <tspan fill="#F43F5E">&#8734;</tspan>
+        &#160;&#160;deaths logged, lessons kept
+      </text>
+    </g>
+
+    <text x="60" y="200" font-family="'Fira Code',ui-monospace,monospace" font-size="12" fill="#6B7280" opacity="0.9">
+      &#8220;the pattern was always there. read the room, learn it, try again.&#8221;
+    </text>
+
+    <rect x="0" y="0" width="1200" height="260" rx="14" fill="none" stroke="#F59E0B" stroke-opacity="0.22" stroke-width="2"/>
+  </g>
+</svg>

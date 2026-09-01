@@ -106,12 +106,15 @@ Cybersecurity Club.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MohammadOmar1054/Automation_Instagram">Automation Suite</a></h3>
-      <p>Python automation for repetitive social workflows, with rate-aware scheduling
-      and a command-line control surface.</p>
+      <h3><a href="https://github.com/MohammadOmar1054/b2b-lead-scraper">B2B Lead Scraper</a></h3>
+      <p>Python pipeline over the Prospeo API that identifies travel-industry
+      professionals by job title, location and industry, enriches company and
+      contact data, deduplicates it, and exports a structured Excel workbook.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prospeo%20API-1A1A1A?style=flat-square&logo=protondrive&logoColor=white" />
+        <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/openpyxl-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -180,6 +183,10 @@ Cybersecurity Club.
 ---
 
 ## Beyond Code
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammadOmar1054/MohammadOmar1054/main/assets/beyond-code.svg" width="100%" alt="Beyond code" />
+</p>
 
 Soulslike games are the off-hours obsession — deliberate, punishing systems that
 reward reading the room and learning the pattern. Cleared: Elden Ring, Dark Souls III,
