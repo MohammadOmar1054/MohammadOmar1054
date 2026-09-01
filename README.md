@@ -150,28 +150,27 @@ Cybersecurity Club.
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadOmar1054&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadOmar1054&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=9CA3AF" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohammadOmar1054&hide_border=true&background=0D1117&stroke=1F2A3A&ring=22D3EE&fire=F43F5E&currStreakLabel=22D3EE&sideLabels=9CA3AF&dates=64748B" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadOmar1054&bg_color=0D1117&color=22D3EE&line=22D3EE&point=F43F5E&area=true&area_color=0EA5E9&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadOmar1054&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
-</p>
-
 <!--
-  Contribution-graph snake animation.
-  Uncomment after the "Generate Snake" GitHub Action has run once.
-  Setup notes: assets/snake-workflow-README.md
+  These panels are rendered by GitHub Actions in this repository
+  (.github/workflows/metrics.yml and snake.yml) and committed as static
+  SVGs under assets/. Nothing here depends on a third-party render service
+  at page-load time. Setup: assets/SETUP.md
 -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammadOmar1054/MohammadOmar1054/main/assets/metrics.svg" alt="GitHub metrics" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/MohammadOmar1054/MohammadOmar1054/main/assets/metrics-languages.svg" alt="Most used languages" />
+  <img width="49%" src="https://raw.githubusercontent.com/MohammadOmar1054/MohammadOmar1054/main/assets/metrics-calendar.svg" alt="Contribution calendar" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohammadOmar1054&theme=dark&hide_border=true&border_radius=8&background=0D1117&ring=22D3EE&fire=F43F5E&currStreakLabel=22D3EE" alt="Contribution streak" />
+</p>
+
+<!-- Uncomment after the "Generate Snake" workflow has run once. -->
 <!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohammadOmar1054/MohammadOmar1054/output/snake-dark.svg" alt="Contribution snake" />
