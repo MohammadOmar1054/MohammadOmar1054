@@ -174,11 +174,11 @@ Cybersecurity Club.
 </p>
 
 <!-- Uncomment after the "Generate Snake" workflow has run once. -->
-<!--
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohammadOmar1054/MohammadOmar1054/output/snake-dark.svg" alt="Contribution snake" />
 </p>
--->
+
 
 ---
 
